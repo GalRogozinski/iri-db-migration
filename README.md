@@ -20,7 +20,7 @@ curl http://127.0.0.1:14265 -X POST \
     "nodeGossipPort":"15601",
     "nodeApiPort":"14266",
     "nodeApiURLScheme":"http"
-}
+}'
 ```
 
 ### Request parameters
